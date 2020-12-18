@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+nav {
+    margin-left: 20%;
+}
+#content {
+    text-align:center;
+    padding: 3px;
+    margin-top: 10px;
+    margin-left: 150px;
+    height: 50px;
+    background-color: lightgrey;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+#reserve-box input{
+    width: 300px;
+}
+#user-data {
+    text-align: left;
+}
+.wideInput {
+    padding-left:0;
+    padding-top:0;
+    height: 20px;
+    padding-bottom:0.4em;
+    padding-right: 0.4em;
+}
+header {
+    padding: 0;
+    height: 80px;
+    background-color: lightgrey;
+}
+.logo {
+    margin-top: 50px;
+    padding-top: 100px;
+
+}
+
